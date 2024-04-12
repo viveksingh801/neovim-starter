@@ -1,0 +1,18 @@
+Run `Mason` in neovim to install the linters and formatter added in none-ls plugin. 
+
+NeoTree - Explorer
+LuaLine - Bottom status bar
+Lsp Config - LSP provider
+NoneLS - Formatter & Linter using LSP
+Telescope - Search in the files
+
+All the plugins are automatically added using the package manager lazy. 
+
+- Leader gf - formatting
+- Ctrl P - file search
+- Leader fg - globalsearch
+- Leader gd - Go To definition
+- Leader K - Hover, show def
+- Leader ca - Code actions, like output panel
+
+
