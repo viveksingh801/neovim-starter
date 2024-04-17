@@ -5,6 +5,10 @@ LuaLine - Bottom status bar
 Lsp Config - LSP provider
 NoneLS - Formatter & Linter using LSP
 Telescope - Search in the files
+BufferLine - For the tab
+AutoPair - To add pairs for [("")]
+Comment - To comment line and multiple line gc/gcc/gc0|$
+IdentLine - To add visual indent line for helper 
 
 All the plugins are automatically added using the package manager lazy. 
 
