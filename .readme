@@ -9,6 +9,8 @@ BufferLine - For the tab
 AutoPair - To add pairs for [("")]
 Comment - To comment line and multiple line gc/gcc/gc0|$
 IdentLine - To add visual indent line for helper 
+Surround - Surround a word with "''" or tag using ys<motion>
+Substitute - Substitue a work, kind of word replace - using - y(copy), and s to replace the word
 
 All the plugins are automatically added using the package manager lazy. 
 
@@ -19,4 +21,6 @@ All the plugins are automatically added using the package manager lazy.
 - Leader K - Hover, show def
 - Leader ca - Code actions, like output panel
 
-
+We are referencing:
+Josean Martinex 2024 nvim setup
+Typecraft 0 to IDE nvim setup
